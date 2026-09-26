@@ -1,7 +1,7 @@
 # 4bit-dibit-evolution
 so the main idea was what if instead of binary we had 4bit dibit utilizing 2 transistors at a time so it can run on existing hardware
 
-made by [sighthough](https://youtu.be/UtPiUGwu-0Q) with the help of google gemini ai
+*Co-authored by [sighthough](https://youtu.be/UtPiUGwu-0Q) and [Googles Gemini](https://www.youtube.com/shorts/R3Qo4rBgrD8).*
 
 try the benchmark [here](https://sighthough.github.io/4bit-dibit-evolution/)
 make sure to run it a few times so the java engine warms up 
